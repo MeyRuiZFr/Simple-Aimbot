@@ -1,3 +1,5 @@
+-- Original script - github.com/ngaokng/KNG-Script/blob/main/Simple-AImbot.lua
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
