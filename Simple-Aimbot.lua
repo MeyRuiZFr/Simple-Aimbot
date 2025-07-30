@@ -57,7 +57,7 @@ end
 -- Notification à l'exécution
 StarterGui:SetCore("SendNotification", {
     Title = "Aimbot | by @elh_rblx",
-    Text = 'Appuie sur "Insert" pour activer / désactiver le aimbot. Grosse merde de fils de pute',
+    Text = 'Press "R" for activate/deactivate the aimbot',
     Duration = 5
 })
 
